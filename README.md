@@ -1,3 +1,19 @@
+# Portfolio
+
+## Technologies Used:
+- [x] React Js
+- [x] Scss  
+
+
+## Packages Used:
+- [x] iTyped
+
+## Interface:
+<span><img src = "https://user-images.githubusercontent.com/61821926/127880922-9ad726e6-1333-47c9-a3c8-d76f45f97845.png"></img></span>
+<span><img src = "https://user-images.githubusercontent.com/61821926/127880982-ae436f69-ab6c-4d04-b9d1-a907567610d1.png"></img></span>
+<span><img src = "https://user-images.githubusercontent.com/61821926/127880950-7935e644-1426-4dc5-ab2b-9c82b8d1e865.png"></img></span>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
