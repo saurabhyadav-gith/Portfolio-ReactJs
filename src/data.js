@@ -12,7 +12,7 @@ export const featuredPortfolio = [
     {
         id: 3,
         title: "Portfolio",
-        img: "",
+        img: "https://user-images.githubusercontent.com/61821926/127879582-f34942c7-d2d7-411c-9b09-908973320bb3.png",
     },
 ]
 
@@ -25,7 +25,7 @@ export const webPortfolio = [
     {
         id: 2,
         title: "Portfolio",
-        img: "",
+        img: "https://user-images.githubusercontent.com/61821926/127879582-f34942c7-d2d7-411c-9b09-908973320bb3.png",
     },
 ]
 
