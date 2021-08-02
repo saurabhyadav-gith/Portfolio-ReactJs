@@ -15,7 +15,7 @@ export default function Topbar({menuOpen, setMenuOpen}) {
                         <Mail className = "icon"/>
                         <a href = "https://mail.google.com/mail/u/1/#inbox?compose=CllgCJTJndBrlkcLjWmQHrmZzCVvRxmmmJmbjBzNSLBTdJfJDjzzTgQLTFhmNWQvhjnMRnxgLKL" ><span>saurabhyadav970@gmail.com</span></a>
                         <AttachFileIcon className="icon" />
-                        <a href=""><span>My Resume</span></a>
+                        <a href="https://drive.google.com/file/d/1lqyV35oPbb9_CSK3Psju0catU-XwRfYE/view?usp=sharing"><span>My Resume</span></a>
                     </div>
                 </div>
                 <div className="right">
